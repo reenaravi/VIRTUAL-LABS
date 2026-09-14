@@ -1,0 +1,29 @@
+How does CSMA/CD detect a collision?
+ b: By continuously monitoring the transmission medium Explanation
+ 
+Why is CSMA/CD not commonly used in modern Ethernet networks?
+ b: Because modern Ethernet uses full-duplex communication Explanation
+ 
+What does the 'Carrier Sense' in CSMA/CD refer to?
+  b: A device listens to the network before transmitting data
+
+What happens when a collision is detected in CSMA/CD?
+ c: A jam signal is sent, and transmission is stopped
+
+How does CSMA/CD handle multiple collisions?
+ b: By increasing the backoff time exponentially after each collision
+
+What happens when a collision is detected in CSMA/CD?
+ a: All stations stop transmitting and wait for a random backoff time Explanation
+
+How does the backoff algorithm in CSMA/CD help in collision resolution?
+c: It introduces a random delay before retransmission to reduce further collisions Explanation
+
+Why does CSMA/CD use a backoff algorithm after a collision?
+c: To introduce a random delay and reduce repeated collisions
+
+What determines the minimum packet size in Ethernet?
+b: The propagation delay and collision detection requirements
+ 
+Which of the following best describes binary exponential backoff?
+c: An algorithm that increases wait time exponentially after each collision
