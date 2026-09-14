@@ -1,0 +1,37 @@
+What is the purpose of an IP address?
+
+ b: To uniquely identify a device on a network.
+
+What is dotted decimal notation used for?
+ a: To make IP addresses more readable for humans.
+
+Which of the following is the default subnet mask for a Class C IP address?
+
+ c: 255.255.255.0
+An IP address `135.20.10.5` falls into which IP address class?
+
+ b: Class B
+
+A network with a CIDR prefix of /27 would have how many usable host addresses?
+ a: 30
+
+ What is the binary representation of the decimal number 5 using 3 bits?
+
+ b: 101
+
+If you need to create a subnet for 10 hosts, how many bits would you need for the host ID?
+
+ c: 4 bits
+
+A network needs to be divided into 4 subnets. How many bits are required for the Subnet ID?
+ 
+ b: 2
+
+In a network with a subnet mask of 255.255.255.240, what is the maximum number of subnets that can be created if the original network had a /24 CIDR prefix?
+ 
+ b: 16
+
+You are given the network address 192.168.1.0/26. What is the Subnet ID for the third subnet?
+
+ b: 192.168.1.128
+
