@@ -1,0 +1,20 @@
+Primary function of Distance Vector routing algorithm?
+b: To compute shortest paths in a network.
+Key characteristic of DV algorithm?
+ c: It is an iterative and distributed algorithm.
+What information does a node send to its neighbors?
+ c: Its own distance vector, which contains cost estimates to all destinations.
+Purpose of Bellman-Ford equation?
+ b: To find the cheapest path by considering neighbor costs and their distance vectors.
+What does c(x,v) represent?
+ b: The cost to a directly connected neighbor 'v' from node 'x'.
+Primary goal of Distance Vector Routing Algorithm?
+ a: To find the shortest path between two nodes.
+What information does each node maintain?
+ b: Cost estimates to all other nodes.
+How do nodes exchange routing information?
+ b: By exchanging distance vectors with neighbors.
+Which equation is used to update the distance vector?
+ b: Dₓ(y) = min{c(x,v) + Dᵥ(y)}
+What happens when a node updates its distance vector?
+ b: It immediately sends the updated vector to its neighbors.
