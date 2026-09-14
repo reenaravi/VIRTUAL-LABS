@@ -1,0 +1,28 @@
+Which technique does CSMA/CA use to avoid collisions?
+ a: Carrier Sense and Random Backoff
+
+Why does CSMA/CA use an acknowledgment (ACK) mechanism?
+ a: To confirm successful data transmission and avoid retransmission
+
+What is the primary reason CSMA/CA is used in wireless networks instead of CSMA/CD?
+ a: Wireless networks have higher transmission speeds
+
+What is the purpose of the RTS/CTS mechanism in CSMA/CA?
+ a: To reduce the hidden node problem
+What happens when multiple devices sense an idle channel in CSMA/CA?
+b: Devices use a random backoff timer before transmitting
+Why is CSMA/CA preferred in Wi-Fi networks?
+ a: Because Wi-Fi signals are prone to interference and hidden nodes
+How does the backoff mechanism in CSMA/CA help in avoiding collisions?
+  b: It introduces a random delay before retransmission
+What does the Clear-to-Send (CTS) signal indicate in CSMA/CA?
+ b: The sender can now transmit data
+What happens when a device detects that the channel is busy in CSMA/CA?
+ c: It defers transmission and starts a backoff timer
+If two devices transmit at the same time despite CSMA/CA, what happens?
+c: Packets may collide and require retransmission
+How does CSMA/CA handle the hidden node problem?
+ a: By using RTS/CTS before transmitting data
+Which of the following best explains why CSMA/CD is suitable for wired Ethernet but not for wireless networks (where CSMA/CA is used)?
+c: In wireless, a station cannot 'listen' for a collision while transmitting because its own signal strength is much higher than any incoming signal.
+
