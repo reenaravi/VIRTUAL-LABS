@@ -1,0 +1,16 @@
+Which of the following best describes UDP?
+ c: A connectionless, lightweight protocol
+Why is UDP suitable for real-time applications like VoIP and video streaming?
+ b: It minimizes latency by avoiding retransmissions
+Which characteristic of UDP allows it to send messages without establishing a connection?
+ a: Stateless operation
+Which technique can be used to improve reliability when using UDP?
+ a: Using a retransmission mechanism at the application layer
+Which application is most likely to use UDP instead of TCP?
+ c: Live video streaming
+Why doesn't UDP guarantee ordered delivery?
+ a: It lacks sequence numbers and acknowledgment mechanisms
+Which is NOT a typical use case for UDP?
+ c: Web browsing
+Key advantage of UDP over TCP?
+b: Lower latency due to no retransmissions
