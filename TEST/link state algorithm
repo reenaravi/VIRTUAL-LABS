@@ -1,0 +1,21 @@
+What is the key characteristic of Link-State Routing?
+b: Each node has a complete view of the network topology
+Which algorithm is used to compute the shortest path?
+ b: Dijkstra's Algorithm
+What type of packet is used to share network information?
+ a: Link-State Packet (LSP)
+What does a node do after receiving LSPs from all other nodes?
+ b: It reconstructs the entire network topology
+What happens after the Link-State algorithm terminates?
+ a: Each node knows the complete least-cost path to all destinations
+Second 5 Questions
+How often do nodes broadcast Link-State Packets?
+ b: At regular intervals or when the network changes
+What best describes the forwarding table?
+ b: It maps each destination to the next-hop node on the shortest path
+Primary advantage over Distance Vector Routing?
+ b: Faster convergence and no count-to-infinity problem
+How does a node update D(v)?
+ c: D(v) = min(D(v), D(w) + c(w,v))
+What is the final output of Link-State algorithm?
+ a: A complete routing table containing next-hop nodes
