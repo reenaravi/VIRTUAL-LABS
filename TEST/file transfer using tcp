@@ -1,0 +1,20 @@
+Which TCP field is used to ensure ordered data delivery?
+a: Sequence Number
+In TCP congestion control, what happens during the slow-start phase?
+ a: The congestion window increases exponentially.
+How does TCP ensure reliability in data transmission?
+ a: By using checksums and acknowledgments.
+Why does the TIME-WAIT state exist during TCP connection termination?
+ a: To ensure all delayed packets are received.
+Which TCP congestion control algorithm reduces the window size when congestion is detected?
+ b: Additive Increase, Multiplicative Decrease (AIMD)
+What happens when a TCP sender detects packet loss?
+ a: It reduces the congestion window size.
+Why is TCP considered connection-oriented?
+ b: It ensures data is delivered in sequence and without errors.
+Purpose of the three-way handshake?
+ b: To establish a reliable connection before data transfer.
+Which TCP mechanism controls the flow of data to prevent overwhelming the receiver?
+ c: Sliding Window
+Main difference between Go-Back-N and Selective Repeat?
+ a: Go-Back-N retransmits all packets after a loss, while Selective Repeat only retransmits lost packets.
