@@ -1,0 +1,21 @@
+What is the primary purpose of DNS?
+ a: To translate hostnames into IP addresses
+Which is NOT a type of DNS server?
+ d: Firewall DNS server
+Which query type allows the server to take full responsibility for finding the answer?
+ b: Recursive
+Which DNS record maps a hostname to an IP address?
+ c: A
+What is the function of a CNAME record?
+ a: It maps a domain name to another domain name
+
+Which DNS server handles extensions like .com and .org?
+ b: Top-Level Domain (TLD) DNS server
+Primary role of an authoritative DNS server?
+ b: To store and provide final IP resolutions for domains
+What does TTL (Time-To-Live) specify?
+ a: The time after which the DNS record expires
+Which best describes an iterative DNS query?
+ b: The server refers the client to another DNS server instead of resolving it itself
+Which protocol is used by DNS?
+c: Both TCP and UDP
